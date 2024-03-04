@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently working with **Angular, React, TypeScript, MongoDB, Supabase**
 
-- 👨‍💻 All of my projects are available at [natejms.com](natejms.com)
+- 👨‍💻 All of my projects are available at [https://www.natejms.com](https://www.natejms.com)
 
 - 📫 How to reach me **hello@natejms.com**
