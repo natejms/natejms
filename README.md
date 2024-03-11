@@ -5,4 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.natejms.com](https://www.natejms.com)
 
-- 📫 How to reach me **hello@natejms.com**
+---
+**Programming Languages:** C, C++, JavaScript (TypeScript, React, NextJS, Angular), Python
+
+**Developer Tools:** Git, Docker, VSCode, Office Suite, Jira, AWS S3, Vercel
